@@ -1,0 +1,14 @@
+name: CustomCrafting
+version: '${project.version}'
+main: xyz.plocki.customcrafting.CustomCrafting
+api-version: 1.18
+prefix: CC
+load: STARTUP
+author: plocki
+description: A CustomCrafting system for RPG servers
+website: https://imprint.plocki.xyz
+commands:
+  recipes:
+  rezepte:
+  recipe:
+  rezept:
